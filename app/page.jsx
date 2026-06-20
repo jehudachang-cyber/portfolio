@@ -15,18 +15,18 @@ export default function Portfolio() {
         <div className="flex justify-center gap-6 text-sm text-slate-500">
 
           {/* EDIT: Your email address */}
-          <a href="mailto:kuohong@netizenexperience.com" className="hover:text-indigo-600 transition-colors">
-            kuohong@netizenexperience.com
+          <a href="mailto:jehudachang@gmail.com" className="hover:text-indigo-600 transition-colors">
+            jehudachang@gmail.com
           </a>
 
           {/* EDIT: Your GitHub URL */}
-          <a href="https://github.com/netizen-experience" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/jehudachang-cyber" target="_blank" rel="noopener noreferrer"
              className="hover:text-indigo-600 transition-colors">
             GitHub
           </a>
 
           {/* EDIT: Your LinkedIn URL */}
-          <a href="https://my.linkedin.com/company/netizen-experience" target="_blank" rel="noopener noreferrer"
+          <a href="https://my.linkedin.com/in/jehudachang/" target="_blank" rel="noopener noreferrer"
              className="hover:text-indigo-600 transition-colors">
             LinkedIn
           </a>
@@ -47,9 +47,10 @@ export default function Portfolio() {
 
         {/* EDIT: Your 2–3 sentence bio */}
         <p className="text-slate-600 leading-relaxed">
-          Final year student at Sunway University passionate about data analytics and machine learning.
-          I enjoy turning messy datasets into clear insights and building tools that help people make
-          better decisions. Currently seeking internship and graduate opportunities in data science.
+          A motivated and detailed-oriented student pursuing a career in data analytics with practical experience 
+          in SAS-based data analysis and a track record across national hackathons and coding competitions. Experienced in 
+          leadership roles and community service, eager to apply technical skills to deliver data-driven solutions and make 
+          a positive impact. Seeking a Data Analytics internship from January to March 2027.
         </p>
       </section>
 
